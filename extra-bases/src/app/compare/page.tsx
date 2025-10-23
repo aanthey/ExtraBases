@@ -6,7 +6,7 @@ const demo = [
   { metric: "On-Base",    A: 0.41, B: 0.44 },
   { metric: "avgEV",      A: 95, B: 92.5 },
   { metric: "Barrels %",  A: 24, B: 17 },
-  { metric: "xwOBA x1000",A: 430, B: 412 },
+  { metric: "xwOBA ",A: 430, B: 412 },
   { metric: "WAR",        A: 7.4, B: 7.0 },
 ];
 
